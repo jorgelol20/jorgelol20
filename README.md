@@ -21,17 +21,16 @@ __Generales:__
 
 ### 📺 Mis aplicaciones
 [<img align="left" alt="Convertidor de CSV a SQL" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHhT0lhtqSDNWxRp-jWjGiqMvYce069W8uA&s" />][csv]
-**Convertidor de CSV a SQL** [csv]
+**Convertidor de CSV a SQL**
 <br />
 <br />
 [<img align="left" alt="Fisica" width="30px" src="https://img.itch.zone/aW1nLzIwMjcyMTA4LnBuZw==/original/avs68I.png" />][scoundrel]
-**Scoundrel** [scoundrel]
+**Scoundrel**
 <br />
 <br />
 
 ## Lo que he estado haciendo -->
 <details>
-    <summary>🔎 Ver</summary>
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgelol20&show_icons=true&theme=tokyonight)
 
