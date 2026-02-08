@@ -41,7 +41,7 @@ __Generales:__
 </details>
 
 <!--Enlaces-->
-[outlook]: (mailto:jorgejorgemonovar@gmail.com)
+[outlook]: mailto:jorgejorgemonovar@gmail.com
 [linkedin]: https://www.linkedin.com/in/jorge-colomer-albertos-944346275/
 [csv]: https://github.com/jorgelol20/ConvertidorCSVaSQL/
 [scoundrel]: https://xjorgelol20.itch.io/scoundrel/
