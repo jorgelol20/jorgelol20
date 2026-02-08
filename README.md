@@ -1,10 +1,10 @@
-### Soy Jorge Colomer Albertos
+<img width="960" height="894" alt="image" src="https://github.com/user-attachments/assets/d276efd1-a0da-4128-a7b8-88795182a8ad" />### Soy Jorge Colomer Albertos
 ## Graduado como Técnico en Sistemas Microinformáticos y Redes y actual estudiante de Desarrollo de Aplicaciones Web
 
 
 ### Métodos de contacto
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
-[<img align="left" alt="WhatsApp" width="22px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg">][whatsapp]
+[<img align="left" alt="WhatsApp" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg/960px-Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg">][outlook]
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
@@ -41,7 +41,7 @@ __Generales:__
 </details>
 
 <!--Enlaces-->
-[whatsapp]: https://wa.me/+34602215143/
+[outlook]: jorgejorgemonovar@gmail.com
 [linkedin]: https://www.linkedin.com/in/jorge-colomer-albertos-944346275/
 [csv]: https://github.com/jorgelol20/ConvertidorCSVaSQL/
 [scoundrel]: https://xjorgelol20.itch.io/scoundrel/
