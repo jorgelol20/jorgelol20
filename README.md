@@ -21,13 +21,14 @@ __Generales:__
 
 ### 📺 Mis aplicaciones
 [<img align="left" alt="Convertidor de CSV a SQL" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHhT0lhtqSDNWxRp-jWjGiqMvYce069W8uA&s" />][csv]
-**Convertidor de CSV a SQL**
+**Convertidor de CSV a SQL**[csv]
 <br />
 <br />
 [<img align="left" alt="Fisica" width="30px" src="https://img.itch.zone/aW1nLzIwMjcyMTA4LnBuZw==/original/avs68I.png" />][scoundrel]
-**Scoundrel**
+**Scoundrel**[scoundrel]
 <br />
 <br />
+[Mulligan Calculator](https://mulligan-calculator.vercel.app/)
 
 ## Lo que he estado haciendo -->
 <details>
