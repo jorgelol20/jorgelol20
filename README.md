@@ -1,9 +1,9 @@
 ### Soy Jorge Colomer Albertos
-```
+```javascript
 const Jorge = {
-    localidad = "Monóvar, Alicante",
-    titulaciones = ['Técnico en Sistemas Microinformáticos y Redes'],
-    actualmenteEstudiando = ['Desarrollo de Aplicaciones Web'],
+    localidad: "Monóvar, Alicante",
+    titulaciones: ['Técnico en Sistemas Microinformáticos y Redes'],
+    actualmenteEstudiando: ['Desarrollo de Aplicaciones Web'],
 }
 ```
 
