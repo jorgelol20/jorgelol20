@@ -33,9 +33,10 @@ __Generales:__
 ## Lo que he estado haciendo -->
 <details>
     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgelol20&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelol20&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jorgelol20/stack-stats/main/stats.svg"
+       alt="Estadísticas de lenguaje" width="100%" />
+</div>
 
 <br />
 
