@@ -31,7 +31,7 @@ __Generales:__
 [Mulligan Calculator](https://mulligan-calculator.vercel.app/)
 
 ## Lo que he estado haciendo -->
-<details>
+
     
 <div align="center">
   <img src="https://raw.githubusercontent.com/jorgelol20/stack-stats/main/stats.svg"
