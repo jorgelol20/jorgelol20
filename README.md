@@ -1,12 +1,18 @@
 ### Soy Jorge Colomer Albertos
-## Graduado como Técnico en Sistemas Microinformáticos y Redes y actual estudiante de Desarrollo de Aplicaciones Web
+```
+const Jorge = {
+    localidad = "Monóvar, Alicante",
+    titulaciones = ['Técnico en Sistemas Microinformáticos y Redes'],
+    actualmenteEstudiando = ['Desarrollo de Aplicaciones Web'],
+}
+```
 
-
+[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
 ### Métodos de contacto
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 [<img align="left" alt="Outlook " width="22px" src="https://cdn.worldvectorlogo.com/logos/outlook-icon.svg" />][outlook]
 <br />
-
+[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
 ### Lenguajes y Herramientas que utilizo:
 
 __Generales:__ 
@@ -18,7 +24,7 @@ __Generales:__
 <img align="left" src="https://avatars.githubusercontent.com/u/177543?s=48&v=4" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
 <br />
-
+[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
 ### 📺 Mis aplicaciones
 [<img align="left" alt="Convertidor de CSV a SQL" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHhT0lhtqSDNWxRp-jWjGiqMvYce069W8uA&s" />][csv]
 **Convertidor de CSV a SQL**
@@ -29,7 +35,7 @@ __Generales:__
 <br />
 <br />
 [Mulligan Calculator](https://mulligan-calculator.vercel.app/)
-
+[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
 ## Lo que he estado haciendo -->
 
     
@@ -40,7 +46,6 @@ __Generales:__
 
 <br />
 
-</details>
 
 <!--Enlaces-->
 [outlook]: mailto:jorgejorgemonovar@gmail.com
