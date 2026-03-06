@@ -40,7 +40,7 @@ __Generales:__
 
     
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jorgelol20/stack-stats/main/stats.svg"
+  <img src="https://raw.githubusercontent.com/jorgelol20/stack-stats/5032d5e41310b5af341cf023adcd95aaf05efeb4/stats.svg"
        alt="Estadísticas de lenguaje" width="100%" />
 </div>
 
