@@ -31,7 +31,11 @@ __Generales:__
 <br />
 <br />
 [<img align="left" alt="Fisica" width="30px" src="https://img.itch.zone/aW1nLzIwMjcyMTA4LnBuZw==/original/avs68I.png" />][scoundrel]
-**Scoundrel**
+**Scoundrel JAVA**
+<br />
+<br />
+[<img align="left" alt="Fisica" width="30px" src="https://scoundrels-quest.com/favicon.png" />][scoundrels-quest]
+**Scoundrel's Quest**
 <br />
 <br />
 [Mulligan Calculator](https://mulligan-calculator.vercel.app/)
@@ -52,5 +56,6 @@ __Generales:__
 [linkedin]: https://www.linkedin.com/in/jorge-colomer-albertos-944346275/
 [csv]: https://github.com/jorgelol20/ConvertidorCSVaSQL/
 [scoundrel]: https://xjorgelol20.itch.io/scoundrel/
+[scoundrels-quest]: https://scoundrels-quest.com
 
 
