@@ -2,8 +2,11 @@
 ```javascript
 const Jorge = {
     localidad: "Monóvar, Alicante",
-    titulaciones: ['Técnico en Sistemas Microinformáticos y Redes'],
-    actualmenteEstudiando: ['Desarrollo de Aplicaciones Web'],
+    titulaciones: ['Técnico en Sistemas Microinformáticos y Redes','Desarrollo de Aplicaciones Web'],
+    experiencia: ['Prácticas en NTT Data', 'Prácticas en Ortholab'],
+    preferencias: ['Frontend', 'Backend'],
+    lenguajes: ['JavaScript', 'PHP', 'Java', 'TypeScript'],
+    frameworks: ['ReactJS', 'Laravel'],
 }
 ```
 
