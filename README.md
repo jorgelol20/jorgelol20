@@ -1,12 +1,15 @@
 ### Soy Jorge Colomer Albertos
 ```javascript
+let edad = fechaActual - 2006;
 const Jorge = {
     localidad: "Monóvar, Alicante",
+    descripcion: `Me llamo Jorge, tengo ${edad} ,soy graduado en Desarrollo de Aplicaciones Web con honores en *dearrollo backend* y despliegue de aplicaciones.`,
     titulaciones: ['Técnico en Sistemas Microinformáticos y Redes','Desarrollo de Aplicaciones Web'],
     experiencia: ['Prácticas en NTT Data', 'Prácticas en Ortholab'],
     preferencias: ['Frontend', 'Backend'],
-    lenguajes: ['JavaScript', 'PHP', 'Java', 'TypeScript'],
-    frameworks: ['ReactJS', 'Laravel'],
+    lenguajes: ['JavaScript', 'Python', 'PHP', 'Java'],
+    aprendiendo: ['TypeScript', 'LLM', 'Agenges de IA'],
+    frameworks: ['ReactJS', 'Laravel', 'Streamlit', 'FastAPI'],
     proyectos: ['PTCGTools', "Scoundrel's Quest"],
 }
 ```
@@ -18,31 +21,55 @@ const Jorge = {
 <br />
 [<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
 ### Lenguajes y Herramientas que utilizo:
+__Lenguajes:__ 
+<br />
+- JavaScript <img width="30px" height="30px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" align="center"/>
+- PHP <img width="30px" height="30px" src="https://www.php.net/favicon.svg?v=2" align="center"/>
+- Java <img width="30px" height="30px" src="https://icon.icepanel.io/Technology/svg/Java.svg" align="center"/>
+- Python <img width="30px" height="30px" src="https://www.python.org/static/favicon.ico" align="center"/>
 
-__Generales:__ 
+__Frameworks Front:__ 
 <br />
-<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="30" height="30" />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/1200px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" width="30" height="30" />
-<img align="left" src="https://avatars.githubusercontent.com/u/177543?s=48&v=4" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
+- React <img width="30px" height="30px" src="https://es.react.dev/favicon-32x32.png" align="center"/>
+- Streamlit <img width="30px" height="30px" src="https://streamlit.io/favicon.svg" align="center"/>
+
+__Frameworks Back:__ 
 <br />
-[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
+- Laravel <img width="30px" height="30px" src="https://laravel.com/img/favicon/favicon-32x32.png" align="center"/>
+- FastAPI <img width="30px" height="30px" src="https://fastapi.tiangolo.com/img/favicon.png" align="center"/>
+
+__Herramientas:__ 
+<br />
+- Git <img width="30px" height="30px" src="https://git-scm.com/favicon.ico" align="center"/>
+- GitHub <img width="30px" height="30px" src="https://github.githubassets.com/favicons/favicon-dark.svg" align="center"/>
+- GitLab <img width="30px" height="30px" src="https://about.gitlab.com/images/ico/favicon-32x32.png" align="center"/>
+- Docker <img width="30px" height="30px" src="https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png" align="center"/>
+- Ollama <img width="30px" height="30px" src="https://ollama.com/public/icon-32x32.png" align="center"/>
+
+__Cloud:__ 
+<br />
+- AWS <img width="30px" height="30px" src="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" align="center"/>
+
+
+<br />
+
+
 ### 📺 Mis aplicaciones
-[<img align="left" alt="Convertidor de CSV a SQL" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHhT0lhtqSDNWxRp-jWjGiqMvYce069W8uA&s" />][csv]
+
+[<img align="left" alt="Convertidor de CSV a SQL" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHhT0lhtqSDNWxRp-jWjGiqMvYce069W8uA&s" />](csv)
 **Convertidor de CSV a SQL**
 <br />
 <br />
-[<img align="left" alt="Fisica" width="30px" src="https://img.itch.zone/aW1nLzIwMjcyMTA4LnBuZw==/original/avs68I.png" />][scoundrel]
+[<img align="left" alt="Scoundrel Java Logo" width="30px" src="https://img.itch.zone/aW1nLzIwMjcyMTA4LnBuZw==/original/avs68I.png" />][scoundrel]
 **Scoundrel JAVA**
 <br />
 <br />
-[<img align="left" alt="Fisica" width="30px" src="https://scoundrels-quest.com/favicon.png" />][scoundrels-quest]
+[<img align="left" alt="Scoundrel's Quest logo" width="30px" src="https://scoundrels-quest.com/favicon.png" />][scoundrels-quest]
 **Scoundrel's Quest**
 <br />
 <br />
-[Mulligan Calculator](https://mulligan-calculator.vercel.app/)
+[<img align="left" alt="PTCG Tools logo" width="30px" src="https://ptcg-tools.vercel.app/locales/mulligan-calculator-icon.png"/>](https://mulligan-calculator.vercel.app/)
+**PTCG Tools**
 [<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>]()
 ## Lo que he estado haciendo -->
 
@@ -61,5 +88,6 @@ __Generales:__
 [csv]: https://github.com/jorgelol20/ConvertidorCSVaSQL/
 [scoundrel]: https://xjorgelol20.itch.io/scoundrel/
 [scoundrels-quest]: https://scoundrels-quest.com
+[PTCGTools]: https://ptcg-tools.vercel.app/
 
 
