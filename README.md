@@ -7,7 +7,7 @@ const Jorge = {
     preferencias: ['Frontend', 'Backend'],
     lenguajes: ['JavaScript', 'PHP', 'Java', 'TypeScript'],
     frameworks: ['ReactJS', 'Laravel'],
-    proyectos: [PTCGTools, Scoundrel's Quest,],
+    proyectos: ['PTCGTools', 'Scoundrel's Quest'],
 }
 ```
 
