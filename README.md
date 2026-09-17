@@ -78,6 +78,11 @@ Aplicación web desarrollada con **React** para analizar mazos de Pokémon TCG, 
 🌐 [Ver aplicación](https://ptcg-tools.vercel.app/)  
 💻 [Ver repositorio](https://github.com/jorgelol20/PTCGTools)
 
+### CV-Automizer
+
+Aplicación desarrollada en **Node** con **Electron** para convertir para optimizar currículums automáticamente a ofertas mediante el uso de IA.
+
+💻 [Ver repositorio](https://github.com/jorgelol20/cv-automizer)
 
 ### Convertidor de CSV a SQL
 
